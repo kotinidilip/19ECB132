@@ -20,3 +20,9 @@ int main() {
   printf("After swapping, second number = %.2lf", second);
   return 0;
 }
+Output:
+Enter first number: 8
+Enter second number: 9
+
+After swapping, first number = 9.00
+After swapping, second number = 8.00
