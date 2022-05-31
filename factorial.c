@@ -14,3 +14,6 @@ long int multiplyNumbers(int n) {
     else
         return 1;
 }
+Output:
+Enter a positive integer: 9
+Factorial of 9 = 362880
