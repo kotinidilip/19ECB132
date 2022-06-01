@@ -28,7 +28,3 @@ int main()
 
     return 0;
 }
-Output:
-Entered date is: 22/04/2003
-Date in single variable: 131269654 [Hex: 07D30416] 
-Date after extracting: 22/04/2003
