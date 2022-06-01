@@ -28,3 +28,10 @@ int main()
 
     return 0;
 }
+~/19ECB132-2$ gcc datemonthyear.c
+~/19ECB132-2$ ./a.out
+Enter date (dd/mm/yy) format: 29/01/02
+
+Entered date is: 29/01/0002
+Date in single variable: 131357 [Hex: 0002011D] 
+Date after extracting: 29/01/0002
