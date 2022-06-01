@@ -72,5 +72,12 @@ int main() {
   postorderTraversal(root);
 }
 
-
- 
+/* ~/19ECB132-1$ gcc binarytree.c
+~/19ECB132-1$ ./a.out
+Inorder traversal 
+4 ->2 ->1 ->3 ->
+Preorder traversal 
+1 ->2 ->4 ->3 ->
+Postorder traversal 
+4 ->2 ->3 ->1 ->
+ /*
